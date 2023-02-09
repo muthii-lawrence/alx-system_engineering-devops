@@ -1,2 +1,2 @@
 #!/bib/bash
-find . -type d -exec chmod 755 {} +
+chmod -R ugo+X .
