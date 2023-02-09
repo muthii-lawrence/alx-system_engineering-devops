@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 33 olleh
+chmod $(stat -c '%' olleh)hello
